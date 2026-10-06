@@ -51,6 +51,10 @@ claude plugin test hamster
 
 Add tips in `hamster/hooks/tips.ts` (a Russian and an English text each, a link without `https://`, or `OFFICIAL` for the official catalog) and regenerate `docs/TIPS.md`.
 
+## Contact
+
+Questions, ideas, bugs: open an [issue](https://github.com/nickpotet/claude-hamster/issues), or write to nick.potet@gmail.com or Telegram [@nick4p](https://t.me/nick4p).
+
 ## License
 
 [MIT](LICENSE)
@@ -78,3 +82,7 @@ claude plugin install hamster@claude-hamster
 После этого перезапустите приложение. Хомяк появится над строкой ввода на вкладке Code.
 
 Чтобы всегда был русский, добавьте `"language": "russian"` в `~/.claude/settings.json` или выберите язык флажком.
+
+### Контакты
+
+Вопросы, идеи, баги: [issues](https://github.com/nickpotet/claude-hamster/issues), почта nick.potet@gmail.com или Telegram [@nick4p](https://t.me/nick4p).
