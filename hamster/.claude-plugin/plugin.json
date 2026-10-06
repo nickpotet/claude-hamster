@@ -1,0 +1,11 @@
+{
+  "name": "hamster",
+  "version": "1.6.4",
+  "description": "A pixel hamster above the prompt in the Claude desktop app: it lives on your context window and tells you when to compact or clear. 110 tips on saving tokens, skills, plugins and MCP servers.",
+  "types": "./types/index.d.ts",
+  "author": { "name": "nickpotet", "url": "https://github.com/nickpotet" },
+  "homepage": "https://github.com/nickpotet/claude-hamster",
+  "repository": "https://github.com/nickpotet/claude-hamster",
+  "license": "MIT",
+  "keywords": ["mod", "pet", "context", "tips", "tokens", "desktop"]
+}

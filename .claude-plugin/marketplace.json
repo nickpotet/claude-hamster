@@ -1,0 +1,15 @@
+{
+  "name": "claude-hamster",
+  "owner": {
+    "name": "nickpotet",
+    "url": "https://github.com/nickpotet"
+  },
+  "plugins": [
+    {
+      "name": "hamster",
+      "source": "./hamster",
+      "description": "A pixel hamster above the prompt in the Claude desktop app: it lives on your context window and tells you when to compact or clear. 110 tips on saving tokens, skills, plugins and MCP servers."
+    }
+  ],
+  "description": "Mods for the Claude desktop app: a pixel hamster that lives on your context window and gives advice."
+}
